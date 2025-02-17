@@ -85,7 +85,7 @@ The application will be accessible at **http://127.0.0.1:5000/** 🌐
       <a href="https://github.com/Shreyas0017">
         <img src="https://github.com/Shreyas0017.png" width="100px;" alt="Shreyas Saha"/>
         <br/>
-        <sub><b>Sahnik Biswas</b></sub>
+        <sub><b>Shreyas Saha</b></sub>
       </a>
     </td>
   </tr>
