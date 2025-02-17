@@ -110,8 +110,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 For any questions or support, feel free to reach out:
 
-- **Email**: [biswassahnik@gmail.com](mailto:biswassahnik@gmail.com) 📧  
-- **LinkedIn**: [Sahnik Biswas](https://www.linkedin.com/in/sahnik-biswas-8514012a7) 💼  
+- **Email**: [biswassahnik@gmail.com](mailto:sankalpasarkar68@gmail.com) 📧  
+- **LinkedIn**: [Sankalpa Sarkar]((https://www.linkedin.com/in/sankalpacodes/)) 💼  
 
 ---
 
