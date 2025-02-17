@@ -29,21 +29,19 @@ cd Lexishift
 ```
 
 ### 3️⃣ Install Dependencies:
+Create a `venv` file in the project root and activate it.
+
+### 4️⃣ Set Up Environment Variables:
 Ensure you have `pip` installed, then run:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Set Up Environment Variables:
-Create a `.env` file in the project root and add any necessary environment variables. Example:
-```bash
-SECRET_KEY=your_secret_key
-```
 
 ### 5️⃣ Run the Application:
 Start the Flask development server:
 ```bash
-python app.py
+python main.py
 ```
 The application will be accessible at **http://127.0.0.1:5000/** 🌐
 
