@@ -1,0 +1,31 @@
+python -m venv venv
+
+
+.\venv\Scripts\activate
+
+
+pip install -r requirements.txt
+
+deactivate
+
+
+python main.py
+
+pip install -U scikit-learn
+
+pip install pdfminer.six
+pip install reportlab
+
+pip install Pillow
+
+
+
+pip install Flask reportlab PyPDF2 pdfminer.six pandas
+
+
+
+
+pip install pymupdf
+
+pip install --upgrade pip setuptools
+pip install pdfplumber
